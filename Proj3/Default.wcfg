@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/ise/CSM152A/Proj3/testbench_205300889_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench_205300889" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/testbench_205300889/VEND" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">VEND</obj_property>
+      <obj_property name="ObjectShortName">VEND</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_205300889/INVALID_SEL" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">INVALID_SEL</obj_property>
+      <obj_property name="ObjectShortName">INVALID_SEL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_205300889/COST" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">COST[2:0]</obj_property>
+      <obj_property name="ObjectShortName">COST[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_205300889/FAILED_TRAN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">FAILED_TRAN</obj_property>
+      <obj_property name="ObjectShortName">FAILED_TRAN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_205300889/CLK" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_205300889/RESET" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RESET</obj_property>
+      <obj_property name="ObjectShortName">RESET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_205300889/RELOAD" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RELOAD</obj_property>
+      <obj_property name="ObjectShortName">RELOAD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_205300889/CARD_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">CARD_IN</obj_property>
+      <obj_property name="ObjectShortName">CARD_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_205300889/ITEM_CODE" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ITEM_CODE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ITEM_CODE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_205300889/KEY_PRESS" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">KEY_PRESS</obj_property>
+      <obj_property name="ObjectShortName">KEY_PRESS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_205300889/VALID_TRAN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">VALID_TRAN</obj_property>
+      <obj_property name="ObjectShortName">VALID_TRAN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_205300889/uut/current_state" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">current_state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">current_state[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
