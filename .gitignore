@@ -1,12 +1,1 @@
-*.cache
-*.hw
-*.ip_user_files
-*.sim
-*.runs
-*.jou
-*.log
-*.str
-.metadata
-.sdk
-RemoteSystemsTempFiles
-webtalk
+!*.v
